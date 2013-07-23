@@ -1,0 +1,36 @@
+primefaces-ex-cropimage-netbeans/target/
+primefaces-ex-cropimage-netbeans/nbproject/
+primefaces-ex-cropimage-netbeans/build/
+primefaces-ex-cropimage-netbeans/dist/
+
+# netBeans all
+build.xml
+manifest.mf
+
+# java files all
+*.class
+*.jar
+*.war
+*.ear
+ 
+# media files
+# photoshop
+*.psd
+ 
+# video
+*.mpg
+*.mp3
+*.mp4
+*.avi
+*.mkv
+ 
+# compressed files
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+ 
+# mac all
+.DS_Store
+*.dmg
