@@ -3,6 +3,8 @@ primefaces-ex-cropimage-netbeans/nbproject/
 primefaces-ex-cropimage-netbeans/build/
 primefaces-ex-cropimage-netbeans/dist/
 
+java6-generics-nb/nbproject/
+
 # netBeans all
 build.xml
 manifest.mf
@@ -12,12 +14,11 @@ manifest.mf
 *.jar
 *.war
 *.ear
- 
-# media files
+
 # photoshop
 *.psd
  
-# video
+# media files
 *.mpg
 *.mp3
 *.mp4
@@ -34,3 +35,4 @@ manifest.mf
 # mac all
 .DS_Store
 *.dmg
+/java6-generics-nb/nbproject/private/
