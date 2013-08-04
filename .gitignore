@@ -36,3 +36,7 @@ manifest.mf
 .DS_Store
 *.dmg
 /java6-generics-nb/nbproject/private/
+/ocjp6/build/
+/ocjp6/JavaApplication18/nbproject/private/
+/ocjp6/modificador-static/nbproject/private/
+/ocjp6/modificador-static/build/
