@@ -2,7 +2,7 @@ primefaces-ex-cropimage-netbeans/target/
 primefaces-ex-cropimage-netbeans/nbproject/
 primefaces-ex-cropimage-netbeans/build/
 primefaces-ex-cropimage-netbeans/dist/
-
+ocjp6/nbproject/
 java6-generics-nb/nbproject/
 
 # netBeans all
@@ -41,3 +41,5 @@ manifest.mf
 /ocjp6/modificador-static/nbproject/private/
 /ocjp6/modificador-static/build/
 /ocjp6/classes/nbproject/private/
+/ocjp6/polimorfismo/nbproject/private/
+/ocjp6/polimorfismo/build/
