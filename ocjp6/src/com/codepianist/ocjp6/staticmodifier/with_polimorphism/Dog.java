@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.codepianist.ocjp6.staticmodifier;
+package com.codepianist.ocjp6.staticmodifier.with_polimorphism;
 
 /**
  * <h1>Dog</h1> 
