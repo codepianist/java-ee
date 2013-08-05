@@ -3,19 +3,21 @@
  * and open the template in the editor.
  */
 
+package com.codepianist.ocjp6;
+
 /**
- * <h1>Class</h1> 
- * <p>created on: Aug 4, 2013, 8:16:41 PM.</p>
+ * <h1>PublicClass</h1> 
+ * <p>created on: Aug 4, 2013, 8:39:04 PM.</p>
  *
  * @author César Barbosa <cesar@vesso.com.br>
  */
-class Jao {
+public class PublicClass {
     public static void main(String[] args) {
-        System.out.println("testando Jao...");
+        System.out.println("Public Class");
     }
 }
-class Maria {
+class NonPublic{
     public static void main(String[] args) {
-        System.out.println("testando Maria...");
+        System.out.println("Non Public Class");
     }
 }
