@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.codepianist.ocjp6.arrays;
+package com.codepianist.ocjp6.arrays.initializ_w_default_value;
 
 /**
  * <h1>Test</h1> 
