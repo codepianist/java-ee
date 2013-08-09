@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<style type="text/css">
+	body {
+	    font-size: 13px;
+	    font-family: 'Helvetica Neue', Helvetica, Arial,Verdana,sans-serif;
+	    color: #444;
+	}
+	</style>
+	<title>Testando um req POST</title>
+	
+</head>
+<body>
+	<form method="POST" action="you-choose" >
+		<p>Qual o time que você torce?</p>
+		<table border="0">
+			<tr>
+			<#list teams as team>
+				<td>
+					<input type="radio" name="team" value="${team}">${team}&nbsp;</input>
+				</td>
+			</#list>
+			</tr>
+		</table>
+                <br />
+                
+		<input type="submit" value="Responder" />
+	</form>
+	<br />
+</body>
+</html>
