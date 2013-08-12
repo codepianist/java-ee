@@ -14,7 +14,7 @@ import org.bson.types.ObjectId;
  * Hello world!
  *
  */
-public class Test{
+public class Inserting1stClient{
     public static void main( String[] args ){
         MongoClient mongoClient = null;
 
