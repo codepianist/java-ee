@@ -8,7 +8,22 @@
   <packaging>jar</packaging>
 
   <name>spark-post-ex</name>
-  <url>http://maven.apache.org</url>
+  <url>http://codepianist.com</url>
+  <inceptionYear>2013</inceptionYear>
+  <licenses></licenses>
+
+  <developers>
+    <developer>
+      <name>Cesar Barbosa</name>
+      <email>cesar@vesso.com.br</email>
+      <organization>Vesso Software</organization>
+      <organizationUrl>http://vesso.com.br</organizationUrl>
+      <roles>
+        <role>Leader</role>
+      </roles>
+      <timezone>-3</timezone>
+    </developer>
+  </developers>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
