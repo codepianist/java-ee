@@ -4,6 +4,7 @@ primefaces-ex-cropimage-netbeans/build/
 primefaces-ex-cropimage-netbeans/dist/
 ocjp6/nbproject/
 java6-generics-nb/nbproject/
+ocjp6-primitives/nbproject/
 
 # netBeans all
 build.xml
@@ -43,3 +44,8 @@ manifest.mf
 /ocjp6/classes/nbproject/private/
 /ocjp6/polimorfismo/nbproject/private/
 /ocjp6/polimorfismo/build/
+/mongo-db-test/target/
+/mongodb-dbobject-ex/target/
+/mongodb-insert-ex/target/
+/ocjp6-primitives/nbproject/private/
+/ocjp6-primitives/build/
