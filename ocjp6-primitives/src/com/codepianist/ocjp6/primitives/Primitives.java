@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.codepianist;
+package com.codepianist.ocjp6.primitives;
 
 /**
  * <h1>Primitives</h1> 

@@ -3,9 +3,9 @@
  * and open the template in the editor.
  */
 
-package com.codepianist;
+package com.codepianist.ocjp6.primitives;
 
-import static com.codepianist.Primitives.d;
+import static com.codepianist.ocjp6.primitives.Primitives.d;
 
 /**
  * <h1>AssigningPrimitives</h1> 

@@ -3,11 +3,11 @@
  * and open the template in the editor.
  */
 
-package com.codepianist;
+package com.codepianist.ocjp6.primitives;
 
-import static com.codepianist.Primitives.c;
-import static com.codepianist.Primitives.i;
-import static com.codepianist.Primitives.s;
+import static com.codepianist.ocjp6.primitives.Primitives.c;
+import static com.codepianist.ocjp6.primitives.Primitives.i;
+import static com.codepianist.ocjp6.primitives.Primitives.s;
 
 /**
  * <h1>AssigningLiterals</h1> 
