@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.codepianist.ocjp6.m_overloading.boxing;
+package com.codepianist.ocjp6.moverloading;
 
 /**
  * <h1>WidenAndBox</h1> 
