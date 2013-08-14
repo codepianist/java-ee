@@ -1,7 +1,4 @@
-primefaces-ex-cropimage-netbeans/target/
-primefaces-ex-cropimage-netbeans/nbproject/
-primefaces-ex-cropimage-netbeans/build/
-primefaces-ex-cropimage-netbeans/dist/
+
 ocjp6/nbproject/
 java6-generics-nb/nbproject/
 
@@ -36,7 +33,10 @@ manifest.mf
 # mac all
 .DS_Store
 *.dmg
-/java6-generics-nb/nbproject/private/
+
+
+# Projects
+
 /ocjp6/build/
 /ocjp6/JavaApplication18/nbproject/private/
 /ocjp6/modificador-static/nbproject/private/
@@ -47,6 +47,11 @@ manifest.mf
 /mongo-db-test/target/
 /mongodb-dbobject-ex/target/
 /mongodb-insert-ex/target/
+
+primefaces-ex-cropimage-netbeans/target/
+primefaces-ex-cropimage-netbeans/nbproject/
+primefaces-ex-cropimage-netbeans/build/
+primefaces-ex-cropimage-netbeans/dist/
 
 /ocjp6-primitives/nbproject/
 /ocjp6-primitives/build/
@@ -69,5 +74,5 @@ manifest.mf
 /ocjp6-methods/nbproject/
 /ocjp6-methods/build/
 
-
-/ocpj6-methods/nbproject/private/
+/ocjp6-generics/nbproject/
+/ocjp6-generics/build/
