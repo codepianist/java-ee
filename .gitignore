@@ -35,7 +35,20 @@ manifest.mf
 *.dmg
 
 
-# Projects
+# Projects EE
+
+jsf2-pf-changingtabs/target/
+jsf2-pf-changingtabs/nbproject/
+jsf2-pf-changingtabs/build/
+jsf2-pf-changingtabs/dist/
+
+jsf2-pf-changingtabs/nbproject/
+jsf2-pf-changingtabs/target/
+jsf2-pf-changingtabs/build/
+jsf2-pf-changingtabs/dist/
+
+
+# Projects SE
 
 /ocjp6/build/
 /ocjp6/JavaApplication18/nbproject/private/
@@ -48,10 +61,6 @@ manifest.mf
 /mongodb-dbobject-ex/target/
 /mongodb-insert-ex/target/
 
-primefaces-ex-cropimage-netbeans/target/
-primefaces-ex-cropimage-netbeans/nbproject/
-primefaces-ex-cropimage-netbeans/build/
-primefaces-ex-cropimage-netbeans/dist/
 
 ocjp6-primitives/nbproject/
 ocjp6-primitives/build/
@@ -76,3 +85,17 @@ ocjp6-methods/build/
 
 ocjp6-generics/nbproject/
 ocjp6-generics/build/
+
+ocjp6-arrays/nbproject/
+ocjp6-arrays/build/
+
+ocpj6-strings/nbproject/
+ocpj6-strings/build/
+
+ocjp6-io/nbproject/
+ocjp6-io/build/
+
+
+
+
+/jsf2-pf-cropimage/target/
