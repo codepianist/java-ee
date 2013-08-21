@@ -95,7 +95,21 @@ ocpj6-strings/build/
 ocjp6-io/nbproject/
 ocjp6-io/build/
 
+ocjp6-collections/nbproject/
+ocjp6-collections/build/
 
-
+ocjp6-generics/nbproject/
+ocjp6-generics/build/
 
 /jsf2-pf-cropimage/target/
+/ocjp6-date-calendar/nbproject/private/
+/ocjp6-date-calendar/build/
+/ocjp6-regex/nbproject/private/
+/ocjp6-regex/build/
+/ocjp6-scanner-tokenizing/nbproject/private/
+/ocjp6-scanner-tokenizing/build/
+/ocjp6-collections/nbproject/private/
+/ocjp6-collections/build/
+/ocpj6-generics/nbproject/private/
+/ocpj6-generics/build/
+/ocpj6-generics/dist/
