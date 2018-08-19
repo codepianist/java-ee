@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jpa-datasource-web:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jpa-datasource-web.war">
+      <element id="artifact" artifact-name="jpa-datasource-web:war exploded" />
+    </root>
+  </artifact>
+</component>
